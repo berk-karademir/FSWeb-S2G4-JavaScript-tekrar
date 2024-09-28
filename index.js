@@ -1,5 +1,5 @@
 /* Aşağıda global olarak tanımlanmış değişkenler bulunmaktadır, bunları değiştirmeyiniz. Açıklamaları takip ederek görevleri tamamlayın. */
-
+//commit
 const pi = 3.14159;
 
 const sayilar = [
@@ -180,7 +180,6 @@ for (let key in tekraredensayilarObjesi) {
     `${key} sayısı ${tekraredensayilarObjesi[key]} kere tekrar edilmiştir`
   );
 }
-
 
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
