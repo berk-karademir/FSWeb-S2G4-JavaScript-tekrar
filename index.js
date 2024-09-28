@@ -1,6 +1,7 @@
 /* Aşağıda global olarak tanımlanmış değişkenler bulunmaktadır, bunları değiştirmeyiniz. Açıklamaları takip ederek görevleri tamamlayın. */
 //commit
 //commit2
+//commit3
 const pi = 3.14159;
 
 const sayilar = [
